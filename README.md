@@ -1,1 +1,1 @@
-# AUV-website
+# Titan Underwater Robotics
